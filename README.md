@@ -6,7 +6,8 @@ This repository contains my submission for the King Fahd Causeway Authority (KFC
 
 ## 📁 Repository Structure
 
-.
+```
+repo_name/
 ├── question_1/
 │   └── solution.pdf
 │
@@ -15,6 +16,7 @@ This repository contains my submission for the King Fahd Causeway Authority (KFC
 │   ├── model.pth
 │   ├── test_predictions.csv
 │   └── report.pdf
+```
 
 ---
 
@@ -23,12 +25,13 @@ This repository contains my submission for the King Fahd Causeway Authority (KFC
 This section contains a conceptual proposal for an AI-powered solution to improve KFCA operations.
 
 ### 📄 Contents:
-- solution.pdf  
+- question1_report.pdf  
   Covers:
   - Problem definition  
   - Data requirements  
   - Proposed AI approach  
   - Success metrics  
+  - Conclusion
 
 ---
 
@@ -41,28 +44,6 @@ Build a binary image classification model to predict whether a CCTV frame contai
 
 ---
 
-## ⚙️ Approach Summary
-
-### 1. Data Preprocessing
-- Image resizing and normalization  
-- Train/test split provided  
-- Data augmentation applied (if used)
-
-### 2. Model
-- Deep learning-based image classifier (e.g., CNN / Transfer Learning)
-- Framework: PyTorch
-
-### 3. Training
-- Loss function: Binary Cross-Entropy  
-- Optimizer: Adam (or similar)  
-- Evaluation on validation/test data  
-
-### 4. Output
-- Predictions generated for test set  
-- Confidence scores included  
-
----
-
 ## 📊 Files Explained
 
 | File | Description |
@@ -70,7 +51,7 @@ Build a binary image classification model to predict whether a CCTV frame contai
 | notebook.ipynb | Full implementation (data prep, training, evaluation) |
 | model.pth | Trained model weights |
 | test_predictions.csv | Model predictions on test dataset |
-| report.pdf | Explanation of approach, decisions, and deployment plan |
+| report.pdf | Explanation of approach, decisions and deployment plan |
 
 ---
 
@@ -78,6 +59,7 @@ Build a binary image classification model to predict whether a CCTV frame contai
 
 The CSV file includes:
 - image_filename
+- true_label (Accident / Non-Accident)
 - predicted_label (Accident / Non-Accident)
 - confidence_score
 
@@ -119,4 +101,4 @@ As described in the report:
 
 ## 🙏 Acknowledgment
 
-Thank you for the opportunity to complete this assessment. I appreciate your time and consideration.
+Thank you for reviewing my submission. I appreciate your time and consideration.

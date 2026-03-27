@@ -1,0 +1,118 @@
+filename,true_label,predicted_label,confidence
+acc1 (7).jpg,Accident,Accident,0.9395
+test10_33.jpg,Accident,Accident,1.0
+test10_56.jpg,Accident,Accident,0.9995
+test10_61.jpg,Accident,Accident,0.9993
+test12_13.jpg,Accident,Accident,0.9254
+test12_16.jpg,Accident,Accident,0.9968
+test13_22.jpg,Accident,Accident,0.9805
+test15_15.jpg,Accident,Non Accident,0.9322
+test18_22.jpg,Accident,Accident,0.6724
+test18_24.jpg,Accident,Accident,0.9981
+test19_26.jpg,Accident,Accident,0.9999
+test1_18.jpg,Accident,Accident,0.9995
+test1_20.jpg,Accident,Accident,0.9999
+test1_24.jpg,Accident,Accident,0.9998
+test1_26.jpg,Accident,Accident,1.0
+test1_27.jpg,Accident,Accident,1.0
+test21_10.jpg,Accident,Accident,0.9988
+test21_14.jpg,Accident,Accident,0.9988
+test21_18.jpg,Accident,Accident,0.9983
+test21_20.jpg,Accident,Accident,0.9987
+test22_23.jpg,Accident,Accident,1.0
+test23_19.jpg,Accident,Accident,0.9994
+test24_30.jpg,Accident,Accident,0.9948
+test25_24.jpg,Accident,Accident,0.998
+test26_23.jpg,Accident,Accident,0.9996
+test26_30.jpg,Accident,Accident,1.0
+test27_13.jpg,Accident,Accident,0.9987
+test27_25.jpg,Accident,Accident,0.9996
+test27_34.jpg,Accident,Accident,0.8425
+test28_20.jpg,Accident,Accident,0.9959
+test28_23.jpg,Accident,Accident,1.0
+test28_26.jpg,Accident,Accident,0.9994
+test2_1.jpg,Accident,Accident,0.9996
+test2_10.jpg,Accident,Accident,1.0
+test2_16.jpg,Accident,Accident,0.9988
+test2_4.jpg,Accident,Accident,0.9966
+test2_7.jpg,Accident,Accident,0.9997
+test30_8.jpg,Accident,Non Accident,0.9202
+test3_32.jpg,Accident,Non Accident,0.8603
+test4_37.jpg,Accident,Accident,0.9996
+test4_40.jpg,Accident,Accident,0.6118
+test4_42.jpg,Accident,Accident,0.8598
+test4_43.jpg,Accident,Accident,0.9906
+test5_12.jpg,Accident,Accident,0.9906
+test5_14(1).jpg,Accident,Accident,0.9973
+test5_14(2).jpg,Accident,Accident,0.9973
+test5_14.jpg,Accident,Accident,0.9973
+test7_25.jpg,Accident,Non Accident,0.7002
+test_33.jpg,Accident,Accident,0.9969
+5_23.jpg,Non Accident,Non Accident,0.9961
+test10_5.jpg,Non Accident,Non Accident,0.9775
+test11_12.jpg,Non Accident,Non Accident,0.8328
+test11_14.jpg,Non Accident,Non Accident,0.9447
+test11_6.jpg,Non Accident,Non Accident,0.9336
+test12_1.jpg,Non Accident,Non Accident,0.9968
+test14_2.jpg,Non Accident,Non Accident,0.8633
+test15_20.jpg,Non Accident,Non Accident,0.9949
+test15_29.jpg,Non Accident,Non Accident,0.9927
+test16_4.jpg,Non Accident,Non Accident,0.9863
+test17_12.jpg,Non Accident,Non Accident,0.993
+test18_15.jpg,Non Accident,Non Accident,0.9909
+test18_5.jpg,Non Accident,Non Accident,0.9773
+test19_15.jpg,Non Accident,Non Accident,0.8715
+test1_8.jpg,Non Accident,Non Accident,0.9996
+test1_9.jpg,Non Accident,Non Accident,0.9991
+test22_3(1).jpg,Non Accident,Non Accident,0.9947
+test22_3.jpg,Non Accident,Non Accident,0.9947
+test22_4(1).jpg,Non Accident,Non Accident,0.9933
+test22_4.jpg,Non Accident,Non Accident,0.9933
+test25_1(1).jpg,Non Accident,Non Accident,0.9792
+test25_1.jpg,Non Accident,Non Accident,0.9792
+test25_21(1).jpg,Non Accident,Accident,0.9209
+test25_21.jpg,Non Accident,Accident,0.9209
+test26_5(1).jpg,Non Accident,Non Accident,0.9528
+test26_5.jpg,Non Accident,Non Accident,0.9528
+test27_5(1).jpg,Non Accident,Non Accident,0.999
+test27_5.jpg,Non Accident,Non Accident,0.999
+test28_1(1).jpg,Non Accident,Non Accident,0.9863
+test28_1.jpg,Non Accident,Non Accident,0.9863
+test28_10(1).jpg,Non Accident,Non Accident,0.9974
+test28_10.jpg,Non Accident,Non Accident,0.9974
+test28_3(1).jpg,Non Accident,Non Accident,0.9636
+test28_3.jpg,Non Accident,Non Accident,0.9636
+test28_4(1).jpg,Non Accident,Non Accident,0.9401
+test28_4.jpg,Non Accident,Non Accident,0.9401
+test28_5(1).jpg,Non Accident,Non Accident,0.9733
+test28_5.jpg,Non Accident,Non Accident,0.9733
+test28_6(1).jpg,Non Accident,Non Accident,0.9854
+test28_6.jpg,Non Accident,Non Accident,0.9854
+test29_19(1).jpg,Non Accident,Non Accident,0.9876
+test29_19.jpg,Non Accident,Non Accident,0.9876
+test29_3(1).jpg,Non Accident,Non Accident,0.9972
+test29_3.jpg,Non Accident,Non Accident,0.9972
+test29_6(1).jpg,Non Accident,Non Accident,0.9899
+test29_6.jpg,Non Accident,Non Accident,0.9899
+test29_7.jpg,Non Accident,Non Accident,0.8837
+test3_12.jpg,Non Accident,Non Accident,0.9941
+test3_18.jpg,Non Accident,Non Accident,0.9989
+test3_21.jpg,Non Accident,Non Accident,0.998
+test3_40.jpg,Non Accident,Non Accident,0.9902
+test4_10.jpg,Non Accident,Non Accident,0.9889
+test4_11.jpg,Non Accident,Non Accident,0.9934
+test4_28.jpg,Non Accident,Non Accident,0.964
+test4_4.jpg,Non Accident,Non Accident,0.9815
+test4_53.jpg,Non Accident,Non Accident,0.835
+test4_6.jpg,Non Accident,Non Accident,0.86
+test4_60.jpg,Non Accident,Non Accident,0.9943
+test4_9.jpg,Non Accident,Non Accident,0.9908
+test7_10.jpg,Non Accident,Non Accident,0.9955
+test7_22.jpg,Non Accident,Non Accident,0.9813
+test7_38.jpg,Non Accident,Non Accident,0.9937
+test7_39.jpg,Non Accident,Non Accident,0.9766
+test8_11.jpg,Non Accident,Non Accident,0.9937
+test8_22.jpg,Non Accident,Non Accident,0.9998
+test8_3.jpg,Non Accident,Non Accident,0.9975
+test9_20.jpg,Non Accident,Non Accident,0.9998
+test_2.jpg,Non Accident,Non Accident,0.6976

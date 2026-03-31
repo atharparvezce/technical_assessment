@@ -1,6 +1,6 @@
-# 🚗 KFCA Technical Assessment — Data Scientist
+# 🚗 Technical Assessment — Data Scientist
 
-This repository contains my submission for the King Fahd Causeway Authority (KFCA) Data Scientist Technical Assessment.
+This repository contains my submission for Data Scientist Technical Assessment.
 
 ---
 

@@ -65,20 +65,6 @@ The CSV file includes:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-git clone <your-repo-link>
-cd <repo-name>
-
-2. Install dependencies:
-pip install -r requirements.txt
-
-3. Run the notebook:
-jupyter notebook question_2/notebook.ipynb
-
----
-
 ## ☁️ Deployment (Concept)
 
 As described in the report:
